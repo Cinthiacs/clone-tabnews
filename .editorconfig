@@ -1,0 +1,6 @@
+root = true
+#dois caracteres de espaço no tab
+
+[*]
+indent_style = space
+indent_size = 2
